@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Heavy ML files
+data/
+checkpoints/
+*.pth
+*.pt
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# VS Code settings
+.vscode/
